@@ -1,0 +1,100 @@
+#Test 1
+Input: 4 10
+5 60
+3 50
+4 70
+2 30
+Maximum value: 150
+
+#Test 2
+Input: 5 15
+2 10
+3 20
+4 30
+5 40
+9 50
+Maximum value: 100
+
+#Test 3
+Input: 6 12
+1 10
+2 15
+3 40
+8 90
+4 50
+5 60
+Maximum value: 150
+
+#Test 4
+Input: 5 8
+3 30
+4 50
+2 20
+1 10
+5 60
+Maximum value: 90
+
+#Test 5
+Input: 7 20
+2 12
+3 18
+4 25
+5 35
+9 50
+7 40
+6 30
+Maximum value: 122
+
+#Test 6
+Input: 4 6
+1 20
+2 30
+3 40
+4 50
+Maximum value: 90
+
+#Test 7
+Input: 5 25
+12 24
+7 13
+11 23
+8 15
+9 16
+Maximum value: 47
+
+#Test 8
+Input: 6 18
+3 10
+5 20
+6 30
+2 15
+4 25
+7 35
+Maximum value: 95
+
+#Test 9
+Input: 8 30
+4 10
+8 40
+5 30
+3 50
+6 70
+2 20
+9 60
+7 80
+Maximum value: 290
+
+#Test 10
+Input: 10 50
+5 10
+10 20
+15 30
+22 40
+25 50
+30 60
+35 70
+40 80
+45 90
+50 100
+Maximum value: 100
+
